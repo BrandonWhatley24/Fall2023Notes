@@ -1,0 +1,17 @@
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\bin\Debug\net6.0-windows\InClassCalculator.exe
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\bin\Debug\net6.0-windows\InClassCalculator.deps.json
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\bin\Debug\net6.0-windows\InClassCalculator.runtimeconfig.json
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\bin\Debug\net6.0-windows\InClassCalculator.dll
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\bin\Debug\net6.0-windows\InClassCalculator.pdb
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.Form1.resources
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.Properties.Resources.resources
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.csproj.GenerateResource.cache
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.AssemblyInfoInputs.cache
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.AssemblyInfo.cs
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.dll
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\refint\InClassCalculator.dll
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.pdb
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\InClassCalculator.genruntimeconfig.cache
+C:\Users\bwhatl00\Documents\Fall2023Notes\InClassCalculator\obj\Debug\net6.0-windows\ref\InClassCalculator.dll
